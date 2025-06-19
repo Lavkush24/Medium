@@ -27,7 +27,7 @@ export const AppBar = () => {
             </div>
             {
                 show && (
-                    <div className="absolute w-full flex justify-end overflow-hidden top-15">
+                    <div className="absolute w-full flex justify-end overflow-hidden top-16">
                         <MenuBar/>
                     </div>
                 )
